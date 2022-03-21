@@ -2,4 +2,4 @@
 
 ### Resúmenes
 
-* Primera sesión: (Resumen 1)[https://scalixtro.github.io/MIT_Introtodeeplearning/Introtodeeplearning1.html]
+* Primera sesión: [Resumen 1](https://scalixtro.github.io/MIT_Introtodeeplearning/Introtodeeplearning1.html)
