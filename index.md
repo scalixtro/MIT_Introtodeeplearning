@@ -9,3 +9,4 @@
 * Tercera sesión:
   * Primera parte: [Resumen 3A](https://scalixtro.github.io/MIT_Introtodeeplearning/Introtodeeplearning_3A.html)
   * Segunda parte: [Resumen 3B](https://scalixtro.github.io/MIT_Introtodeeplearning/Introtodeeplearning_3B.html)
+* Cuarta sesión: [Resumen 4](https://scalixtro.github.io/MIT_Introtodeeplearning/Introtodeeplearning_4.html)
